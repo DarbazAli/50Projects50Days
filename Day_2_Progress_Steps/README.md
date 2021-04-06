@@ -1,1 +1,1 @@
-![alt text](../images/Progress_Steps.jpg 'Progress Steps)
+![alt text](../images/Progress_Steps.jpg 'Progress Steps')
