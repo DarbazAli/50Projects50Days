@@ -9,3 +9,7 @@ A list of div(panel) elements have background images, when you click on a panel,
 ## Day 2 - Progress Steps
 
 Controlling progress steps with buttons
+
+## Day 3 - Rotating Navigation
+
+Rotating the whole content and navigation
