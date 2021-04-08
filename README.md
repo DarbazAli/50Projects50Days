@@ -13,3 +13,7 @@ Controlling progress steps with buttons
 ## Day 3 - Rotating Navigation
 
 Rotating the whole content and navigation
+
+## Day 4 - Hidden Search Widget
+
+Showing a search input with a click event
