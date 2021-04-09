@@ -17,3 +17,7 @@ Rotating the whole content and navigation
 ## Day 4 - Hidden Search Widget
 
 Showing a search input with a click event
+
+## Day 5 - Blurry Loading
+
+Loading text with blurry effect on the background image.
