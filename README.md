@@ -20,4 +20,8 @@ Showing a search input with a click event
 
 ## Day 5 - Blurry Loading
 
-Loading text with blurry effect on the background image.
+Loading text with blur effect on the background image.
+
+## Day 6 - Scroll Animation
+
+Animating DOM elements with scroll events
