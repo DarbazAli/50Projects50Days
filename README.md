@@ -25,3 +25,11 @@ Loading text with blur effect on the background image.
 ## Day 6 - Scroll Animation
 
 Animating DOM elements with scroll events
+
+## Day 7 - Split Landing Page
+
+Splitting the landing page into two separate sections, and expand on section with hover effect.
+
+## Day 8 - Form Wave Animation
+
+Adding a wave animation to labels with focus events.
