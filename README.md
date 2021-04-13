@@ -33,3 +33,7 @@ Splitting the landing page into two separate sections, and expand on section wit
 ## Day 8 - Form Wave Animation
 
 Adding a wave animation to labels with focus events.
+
+## Day 9 - Sound Board
+
+Playing sounds with corresponding buttons.
