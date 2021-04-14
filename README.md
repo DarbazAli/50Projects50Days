@@ -37,3 +37,7 @@ Adding a wave animation to labels with focus events.
 ## Day 9 - Sound Board
 
 Playing sounds with corresponding buttons.
+
+## Day 10 - Dad Jokes
+
+Generating random jokes by sending a GET request to the API endpoint with **fetch** API.
