@@ -45,3 +45,7 @@ Generating random jokes by sending a GET request to the API endpoint with **fetc
 ## Day 11 - Event KeyCodes
 
 Showing the keyCode properties with `keydown` event
+
+## Day 12 - FAQ Collapse
+
+FAQ Collapsing Cards
