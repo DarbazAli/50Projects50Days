@@ -49,3 +49,11 @@ Showing the keyCode properties with `keydown` event
 ## Day 12 - FAQ Collapse
 
 FAQ Collapsing Cards
+
+### Day 13 - Random Choice Picker
+
+Picking a random choice from a user create list
+
+## Day 14 - Animated Navigation
+
+Animating Navigation bar with cool animations
