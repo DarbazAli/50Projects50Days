@@ -58,6 +58,14 @@ Picking a random choice from a user create list
 
 Animating Navigation bar with cool animations
 
-## Day 14 - Incrementing Counter
+## Day 15 - Incrementing Counter
 
 Incrementing Social Count numbers.
+
+## Day 16 - Drink Water
+
+Filling a glass of water with diffrent precentage.
+
+## Day 17 - Movie App
+
+Implementing a REST API with Vanilla JavaScript
