@@ -64,8 +64,12 @@ Incrementing Social Count numbers.
 
 ## Day 16 - Drink Water
 
-Filling a glass of water with diffrent precentage.
+Filling a glass of water with different precentage.
 
 ## Day 17 - Movie App
 
 Implementing a REST API with Vanilla JavaScript
+
+## Day 18 - Background Slider
+
+Image Slider with changing the background image of the parent element
