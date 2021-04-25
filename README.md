@@ -73,3 +73,15 @@ Implementing a REST API with Vanilla JavaScript
 ## Day 18 - Background Slider
 
 Image Slider with changing the background image of the parent element
+
+## Day 19 - Theme Clock
+
+An analog clock with CSS and javaScript, Dark and Light Theme.
+
+## Day 20 - Buttom Ripple Factor
+
+Ripple animation on button with click event
+
+## Day 21 - Drag N Drop
+
+Drag and Drop functionality with javaScript.
