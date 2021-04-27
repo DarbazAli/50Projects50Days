@@ -85,3 +85,11 @@ Ripple animation on button with click event
 ## Day 21 - Drag N Drop
 
 Drag and Drop functionality with javaScript.
+
+## Day 22 - Drawing App
+
+A simple drawing app using canvas
+
+## Day 23 - Kinetic Loader
+
+Infinte Loader with pure CSS
