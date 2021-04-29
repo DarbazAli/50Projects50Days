@@ -93,3 +93,7 @@ A simple drawing app using canvas
 ## Day 23 - Kinetic Loader
 
 Infinte Loader with pure CSS
+
+## Day 24 - Content Placeholder
+
+Placeholder content for slow loading websites
