@@ -52,7 +52,7 @@ FAQ Collapsing Cards
 
 ### Day 13 - Random Choice Picker
 
-Picking a random choice from a user create list
+Picking a random choice from a user create a list
 
 ## Day 14 - Animated Navigation
 
@@ -64,7 +64,7 @@ Incrementing Social Count numbers.
 
 ## Day 16 - Drink Water
 
-Filling a glass of water with different precentage.
+Filling a glass of water with different percentage.
 
 ## Day 17 - Movie App
 
@@ -80,7 +80,7 @@ An analog clock with CSS and javaScript, Dark and Light Theme.
 
 ## Day 20 - Buttom Ripple Factor
 
-Ripple animation on button with click event
+Ripple animation on a button with click event
 
 ## Day 21 - Drag N Drop
 
@@ -92,8 +92,12 @@ A simple drawing app using canvas
 
 ## Day 23 - Kinetic Loader
 
-Infinte Loader with pure CSS
+Infinite Loader with pure CSS
 
 ## Day 24 - Content Placeholder
 
 Placeholder content for slow loading websites
+
+## Day 25 - Sticky Navigation
+
+Sticky Navigation for seamless user experience.
