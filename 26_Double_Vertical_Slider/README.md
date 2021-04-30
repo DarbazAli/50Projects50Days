@@ -1,1 +1,1 @@
-![alt text](../images/expanding_cards.jpg 'Expanding Cards')
+![alt text](../images/vertical_slider.jpg 'Vertical Slider')
