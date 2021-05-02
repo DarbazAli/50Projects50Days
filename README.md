@@ -101,3 +101,11 @@ Placeholder content for slow loading websites
 ## Day 25 - Sticky Navigation
 
 Sticky Navigation for seamless user experience.
+
+## Day 26 - Double Vertical Slider
+
+Sliding 2 div elements in different directions
+
+## Day 27 - Toast Notification
+
+Toast Notifications
