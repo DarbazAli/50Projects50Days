@@ -32,7 +32,7 @@ body {
   height: 4px;
   width: 10%;
   display: block;
-  background-color: green;
+  background-color: red;
   margin-top: 8px;
   border-radius: 2px;
   transition: all 200ms ease;
