@@ -27,3 +27,13 @@ body {
 .form-container {
   border-radius: 10px;
 }
+
+#password-strength {
+  height: 4px;
+  width: 10%;
+  display: block;
+  background-color: green;
+  margin-top: 8px;
+  border-radius: 2px;
+  transition: all 200ms ease;
+}
