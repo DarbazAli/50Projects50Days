@@ -2,6 +2,8 @@
 
 * {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 body {
@@ -22,10 +24,17 @@ body {
   box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
   width: 600px;
   overflow: hidden;
+  position: relative;
 }
 
 .quiz-header {
-  padding: 4rem;
+  padding: 3rem;
+}
+
+.tracker {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
 }
 
 h2 {

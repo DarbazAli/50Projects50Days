@@ -38,6 +38,7 @@ const quizData = [
 const quiz = document.getElementById('quiz')
 const answerEls = document.querySelectorAll('.answer')
 const questionEl = document.getElementById('question')
+const trackerEl = document.querySelector('.tracker')
 
 const a_text = document.getElementById('a_text')
 const b_text = document.getElementById('b_text')
@@ -55,6 +56,7 @@ const deselectAnswers = () => {
 }
 
 const loadQuiz = () => {
+  trackerEl.innerHTML = `${currentQuiz + 1}/${quizData.length}`
   deselectAnswers()
 
   const currentQuestion = quizData[currentQuiz]
